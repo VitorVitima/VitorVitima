@@ -5,8 +5,8 @@
 ##
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorVitima&show_icons=true&count_private=true&hide_border=true&title_color=B24BF4&icon_color=B24BF4&text_color=B24BF4&bg_color=0d1117" alt="Vitor Vitima github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorVitima&layout=compact&hide_border=true&title_color=B24BF4&text_color=B24BF4&bg_color=0d1117" alt="Vitor Vitima github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorVitima&show_icons=true&count_private=true&hide_border=true&title_color=B24BF4&icon_color=B24BF4&text_color=B24BF4&bg_color=0d1117" alt="Vitor Vitima github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitorVitima&layout=compact&hide_border=true&title_color=B24BF4&text_color=B24BF4&bg_color=0d1117" alt="Vitor Vitima github stats" />
 </div>
 
 ##
